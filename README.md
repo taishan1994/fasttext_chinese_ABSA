@@ -2,6 +2,8 @@
 基于fasttext的中文细粒度情感分类。<br>
 由于协议这里不提供数据集，如需要则回复即可。<br>
 
+数据集可参考：https://github.com/Meituan-Dianping/asap
+
 # 相关依赖
 ```
 pybind11>=2.2
